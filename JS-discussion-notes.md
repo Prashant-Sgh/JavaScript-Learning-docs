@@ -5,4 +5,4 @@
 ### What is a Programming language?
 *Usually compiled into machine code before execution. Used for developing standalone applications, system software, and complex projects.*
 
-In short JavaScript is a versatile, high-level programming language - primarily used for creating interactive and dynamic content on websites.
+**->** In short JavaScript is a versatile, high-level programming language - primarily used for creating interactive and dynamic content on websites.
