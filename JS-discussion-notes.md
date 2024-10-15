@@ -15,4 +15,4 @@
 
 - **To store a values -** you can store a value from your webpage in some variable.
 - **Perform action -** it can perform certain actions when they are triggered by something (*on the click of a button -* one of the most common ways to trigger any actions).
-- **APIs -** we can use APIs in our JavaScript program, it is like using *doremon's gadgets that can add extra functionality/features to Nobita* in your case it can add features and functionality to your website.
+- **APIs -** we can use APIs in our JavaScript program, it is like using *Doremon's gadgets to add extra functionality/features to Nobita* in your case it can add features and functionality to your website.
