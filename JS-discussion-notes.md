@@ -41,13 +41,13 @@ If you want to store a value in JavaScript you will need to assign a name to it 
 - **OBJECT**
 - **SYMBOL**
 
-**string -** Normal texts like any name or sentences.
-**int -**    Any integer values like 1....9999...
-**float -**  Any decimal values like 3.14 or 1.695
-**boolean -** At type of value which can be either true or false (if you see 1 and 0 it mesns true and false respectively).
-**null -**   It means neither zero (0) nor "undefined", it means "nothing".
+- **string -** Normal texts like any name or sentences.
+- **int -**    Any integer values like 1....9999...
+- **float -**  Any decimal values like 3.14 or 1.695
+- **boolean -** At type of value which can be either true or false (if you see 1 and 0 it mesns true and false respectively).
+- **null -**   It means neither zero (0) nor "undefined", it means "nothing".
 
 <br>
 
-**object -**
-**symbol -**
+- **object -**
+- **symbol -**
