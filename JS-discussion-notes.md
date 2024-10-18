@@ -30,14 +30,16 @@ If you want to store a value in JavaScript you will need to assign a name to it 
 
 ### After you define the variable (where you can store a value) you can store different types of values.
 
-- **STRING**
-- **INT**
-- **FLOAT**
-- **BOOLEAN**
-- **NULL**
+- ***STRING***
+- ***INT***
+- ***FLOAT***
+- ***BOOLEAN***
+- ***NULL***
 
 - *OBJECT*
 - *SYMBOL*
+
+<br>
 
 - **string -** Normal texts like any name or sentences.
 - **int -**    Any integer values like 1....9999...
@@ -45,5 +47,5 @@ If you want to store a value in JavaScript you will need to assign a name to it 
 - **boolean -** At type of value which can be either true or false (if you see 1 and 0 it mesns true and false respectively).
 - **null -**   It means neither zero (0) nor "undefined", it means "nothing".
 
-- *object -*
-- *symbol -*
+- ***object -***
+- ***symbol -***
