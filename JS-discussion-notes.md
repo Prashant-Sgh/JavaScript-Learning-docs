@@ -35,7 +35,9 @@ If you want to store a value in JavaScript you will need to assign a name to it 
 - **FLOAT**
 - **BOOLEAN**
 - **NULL**
+
 <br>
+
 - **OBJECT**
 - **SYMBOL**
 
